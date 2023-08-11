@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Machine Learning projects.**
 
-- 🌱 I’m currently learning **DevOps Development And Data Visulation.**
+- 🌱 I’m currently learning **DevOps, Development and Data Visualation.**
 
-- 👯 I’m looking to collaborate with **technology institute.**
+- 👯 I’m looking to collaborate with **technological institute.**
 
 - 📫 How to reach me **sshivam6495@gmail.com**
 
