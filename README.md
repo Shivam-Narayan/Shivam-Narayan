@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamnarayan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shivamnarayan&label=Profile%20Views&color=#42FFF7FF&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -22,8 +22,8 @@ I am a creative 🎡, time-punctual 👩‍🎓, dedicated 🎯, goal-oriented i
 ## 🔥 Passion
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl6eDFubTlkcmUwNGJ5bHZzeXVhNTE1bTBhdDdlYTlsbjdyNG9scCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WSBeyxvC1jH496xQGA/giphy.webp" style="max-width: 100%;">
 
-- 🔭 I’m currently working on **Machine Learning projects.**
-- 🌱 I’m currently learning **DevOps, Development, and Data Visualization.**
+- 🔭 I’m currently working on **Artificial intelligence and small LLM.**
+- 🌱 I’m currently learning **DevOps, Softwere Development, and Data analyst.**
 - 👯 I’m looking to collaborate with **technological institutes.**
 - 📫 How to reach me: **sshivam6495@gmail.com**
 - ⚡ Fun fact: **I think I am Funny.**
