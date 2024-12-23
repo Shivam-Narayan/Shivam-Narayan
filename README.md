@@ -16,7 +16,7 @@
 <hr/>
 
 <samp>
-I am a creative 🎡, time-punctual 👩‍🎓, dedicated 🎯, goal-oriented individual 👩‍💻 with decent moral values and ethics 🙇‍♀️ along with a high energy level 🤹‍♀️, honed communication skills 👐, strong organizational skills 👮‍♀️, and meticulous attention 🕵️‍♀️ to detail.
+I am a creative 🎡, punctual 👩‍🎓, and dedicated 🎯 individual 👩‍💻 with strong moral values and ethics 🙇‍♀️. I possess high energy levels 🤹‍♀️, excellent communication skills 👐, strong organizational abilities 👮‍♀️, and a keen eye for detail 🕵️‍♀️.
 </samp>
 
 ## 🔥 Passion
