@@ -11,13 +11,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Science+Engineering+Graduate+Student;Problem+Solving+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20technology&center=true&width=550&height=45">
   </a>
-</p>
-<hr/>
-<!-- GitHub Star link -->
+  <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
 </p>
+</p>
+<hr/>
+
 
 <samp>
 I am a creative 🎡, punctual 👩‍🎓, and dedicated 🎯 individual 👩‍💻 with strong moral values and ethics 🙇‍♀️. I possess high energy levels 🤹‍♀️, excellent communication skills 👐, strong organizational abilities 👮‍♀️, and a keen eye for detail 🕵️‍♀️.
