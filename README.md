@@ -4,12 +4,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamnarayan&label=Profile%20Views&color=42FFF7FF&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=shivamnarayan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Science+Engineering+Graduate+Student;Problem+Solving+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20technology&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Science+Engineering+Graduate+Student;Problem+Solving+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20technology&center=true&width=550&height=45">
   </a>
 </p>
 
