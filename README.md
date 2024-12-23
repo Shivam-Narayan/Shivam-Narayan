@@ -20,7 +20,8 @@ I am a creative 🎡, time-punctual 👩‍🎓, dedicated 🎯, goal-oriented i
 </samp>
 
 ## 🔥 Passion
-<img align="right" alt="coding" width="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl6eDFubTlkcmUwNGJ5bHZzeXVhNTE1bTBhdDdlYTlsbjdyNG9scCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WSBeyxvC1jH496xQGA/giphy.webp" style="max-width: 100%;">
+<img align="right" alt="coding" width="300"
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl6eDFubTlkcmUwNGJ5bHZzeXVhNTE1bTBhdDdlYTlsbjdyNG9scCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WSBeyxvC1jH496xQGA/giphy.webp" style="max-width: 100%;">
 
 - 🔭 I’m currently working on **Machine Learning projects.**
 
