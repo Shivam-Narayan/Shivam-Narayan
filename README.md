@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, 👋 My name Shivam Narayan!
+Hi, 👋 I am Shivam Narayan!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
@@ -49,7 +49,9 @@ I am a creative 🎡, time-punctual 👩‍🎓, dedicated 🎯, goal-oriented i
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
-    <img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white">
+    <img alt="Pyspark" src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?logo=apache-spark&logoColor=white">
+  
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -62,13 +64,11 @@ I am a creative 🎡, time-punctual 👩‍🎓, dedicated 🎯, goal-oriented i
 
 ### 💻 Software and Tools
 <p>
-    <img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
     <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white">
-    <img alt="Atom" src="https://img.shields.io/badge/Atom-3DDC84?logo=atom&logoColor=white">
     <img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
-    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 </p>
 
