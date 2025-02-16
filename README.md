@@ -37,27 +37,27 @@
     <img src="https://img.shields.io/badge/SQL-%23025E8C.svg?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
 </p>
 
-- **My DevOps Skills**:
+### **My DevOps Skills**:
 
-   <p> 
-	   <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-	   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> 
-	   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> 
-	   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white"/> 
-	   <img src="https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/Artifact%20Hub-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-	   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/> 
-   </p>
+<p> 
+	<img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+	<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+	<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitLab%20CI%2FCD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Artifact%20Hub-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white"/>
+	<img src="https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
 
 ### ?? Frameworks and Libraries
 <p>
