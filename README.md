@@ -1,4 +1,4 @@
-<h1 align="center">Hi, 👋 I'm Shivam Narayan!</h1>
+<h1 align="center">Hi, ?? I'm Shivam Narayan!</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </p>
@@ -15,19 +15,19 @@
 
 ---
 
-### 🏆 About Me
+### ?? About Me
 
-- 🔭 Currently working on **Machine Learning projects.**  
-- 🌱 Learning **DevOps, Development, and Data Visualization.**  
-- 🤝 Looking to collaborate with **tech enthusiasts and institutes.**  
-- 📫 Reach me at: **sshivam6495@gmail.com**  
-- ⚡ Fun fact: **I think I am funny! 😆**  
+- ?? Currently working on **Machine Learning projects.**  
+- ?? Learning **DevOps, Development, and Data Visualization.**  
+- ?? Looking to collaborate with **tech enthusiasts and institutes.**  
+- ?? Reach me at: **sshivam6495@gmail.com**  
+- ? Fun fact: **I think I am funny! ??**  
 
 ---
 
-## 🚀 My Tech Stack
+## ?? My Tech Stack
 
-### 👨‍💻 Programming Languages
+### ????? Programming Languages
 <p>
     <img src="https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,27 +39,27 @@
 
 - **My DevOps Skills**:
 
-   <p>
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-  ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-  ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
-  ![Docker Hub](https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Artifact Hub](https://img.shields.io/badge/Artifact%20Hub-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white)
-  ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-</p>
+   <p> 
+	   <img src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+	   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/GitLab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/> 
+	   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> 
+	   <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white"/> 
+	   <img src="https://img.shields.io/badge/Docker%20Hub-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/Artifact%20Hub-%23000000.svg?style=for-the-badge&logo=helm&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/VirtualBox-%23216282.svg?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+	   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/> 
+   </p>
 
-### 🧰 Frameworks and Libraries
+### ?? Frameworks and Libraries
 <p>
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/badge/PySpark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white" />
 </p>
 
-### ☁️ Databases & Cloud Hosting
+### ?? Databases & Cloud Hosting
 <p>
     <img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/Firebase-%23316192.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
-### 🛠️ Dev Tools
+### ??? Dev Tools
 <p>
     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white" />
@@ -88,7 +88,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## ?? GitHub Stats
 <p align="center">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shivamnarayan&show_icons=true&count_private=true&theme=tokyonight" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamnarayan&langs_count=8&layout=compact&theme=tokyonight" />
@@ -97,7 +97,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## ?? Connect With Me
 <p align="center">
     <a href="https://github.com/Shivam-Narayan" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
     <a href="https://www.linkedin.com/in/shivam-narayan-6885161bb" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
@@ -106,4 +106,4 @@
 
 ---
 
-⭐️ **Feel free to connect and collaborate!** 🚀
+?? **Feel free to connect and collaborate!** ??
