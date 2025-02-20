@@ -25,7 +25,7 @@
 ## 🛠 My Tech Stack
 
 ### 💻 Programming Languages
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,7 +35,7 @@
 </p>
 
 ### ☁ DevOps & Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -45,7 +45,7 @@
 </p>
 
 ### 📚 Frameworks & Libraries
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -53,7 +53,7 @@
 </p>
 
 ### ☁ Databases & Cloud
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" />
@@ -64,8 +64,8 @@
 ## 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityaa-Sharma&show_icons=true&theme=radical&hide_border=true" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaa-Sharma&layout=compact&theme=radical&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam-Narayan&show_icons=true&theme=radical&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Narayan&layout=compact&theme=radical&hide_border=true" width="400" />
 </p>
 
 ---
