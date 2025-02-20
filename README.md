@@ -61,23 +61,41 @@
 </p>
 
 ---
+### 📈 Current LeetCode Streak
 
-## 📊 GitHub Stats
+<!-- Add LeetCode streak badge -->
+<div>
+  <p align="center">
+    <img src="https://leetcode-stats.vercel.app/api?username=msa23024_iiitl&theme=dark" alt="LeetCode Streak" />
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityaa-Sharma&theme=darkhub&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy" alt="Aditya's github trophy">
+</div>
+
+  
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shivamnarayan&show_icons=true&count_private=true&theme=tokyonight" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamnarayan&langs_count=8&layout=compact&theme=tokyonight" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamnarayan&theme=tokyonight" />
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Adityaa-Sharma&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
 
 ---
 
-## 🤝 Connect With Me
+
+
+
 <p align="center">
-    <a href="https://github.com/Shivam-Narayan" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/shivam-narayan-6885161bb" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
-    <a href="mailto:sshivam6495@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Adityaa-Sharma&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaa-Sharma&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
+ 
 
----
 
-🌟 **Feel free to connect and collaborate!** 🚀
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adityaa-Sharma&style=for-the-badge&color=orange" alt=""/>
+</div>
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
