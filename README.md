@@ -68,9 +68,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaa-Sharma&layout=compact&theme=radical&hide_border=true" width="400" />
 </p>
 
-### 🔥 Current LeetCode Streak
+---
+
+### 🌟 Current HackerRank Streak
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=msa23024_iiitl&theme=dracula" alt="LeetCode Streak" />
+  <!-- Placeholder for HackerRank streak (no direct API available, replace with your badge/image if available) -->
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
+  <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_HACKERRANK_STREAK_IMAGE_URL" alt="HackerRank Streak" /> -->
 </p>
 
 <p align="center">
