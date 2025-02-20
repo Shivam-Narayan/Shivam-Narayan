@@ -10,9 +10,6 @@
     <img src="https://github.com/Adityaa-Sharma/Adityaa-Sharma/blob/main/meow_wave_peak.png" height="60"/>
 
 </div>
-
-
-
 <div align="center">
   </a>
 </p>
