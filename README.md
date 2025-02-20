@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Shivam Narayan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<img src="https://github.com/Adityaa-Sharma/Adityaa-Sharma/blob/main/meow_wave_peak.png" height="60"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivamnarayan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -8,6 +7,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F76C6C&center=true&vCenter=true&width=500&lines=Information+Science+Engineering+Student;Problem+Solving+Web+Developer;DS+%7C+AI+%7C+ML+Enthusiast;Always+Learning+New+Technology" alt="Typing SVG" />
+    <img src="https://github.com/Adityaa-Sharma/Adityaa-Sharma/blob/main/meow_wave_peak.png" height="60"/>
+
+</div>
+
+
+
+<div align="center">
   </a>
 </p>
 
