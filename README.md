@@ -99,3 +99,13 @@
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+## ?? Connect With Me
+<p align="center">
+    <a href="https://github.com/Shivam-Narayan" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/shivam-narayan-6885161bb" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
+    <a href="mailto:sshivam6495@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/></a>
+</p>
+
+---
+
+?? **Feel free to connect and collaborate!** ??
