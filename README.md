@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Shivam Narayan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<img src="https://github.com/Adityaa-Sharma/Adityaa-Sharma/blob/main/meow_wave_peak.png" height="60"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivamnarayan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
