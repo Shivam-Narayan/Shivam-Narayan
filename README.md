@@ -74,18 +74,22 @@
 <p align="center">
   <!-- Placeholder for HackerRank streak (no direct API available, replace with your badge/image if available) -->
   <a href="https://www.hackerrank.com/dashboard" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
-    
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />  
   </a>
   <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_HACKERRANK_STREAK_IMAGE_URL" alt="HackerRank Streak" /> -->
 </p>
-
+### 🌟 Current LeetCode Streak
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityaa-Sharma&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <a href="https://leetcode.com/studyplan/top-sql-50/" target="_blank">
+    <img src="https://i.imgur.com/your-streak-image.png" alt="LeetCode Streak" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shivam-Narayan&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Adityaa-Sharma&theme=dracula&hide_border=true&card_width=800" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Shivam-Narayan&theme=dracula&hide_border=true&card_width=800" alt="GitHub Streak" />
 </p>
 
 ---
