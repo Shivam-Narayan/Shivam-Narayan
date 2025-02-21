@@ -80,10 +80,13 @@
 </p>
 ### 🌟 Current LeetCode Streak
 <p align="center">
-  <a href="https://leetcode.com/studyplan/top-sql-50/" target="_blank">
-    <img src="https://i.imgur.com/your-streak-image.png" alt="LeetCode Streak" />
+  <!-- Placeholder for LeetCode streak (no direct API available, replace with your badge/image if available) -->
+  <a href="https://leetcode.com/your-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Profile" />
   </a>
+  <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_LEETCODE_STREAK_IMAGE_URL" alt="LeetCode Streak" /> -->
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shivam-Narayan&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
