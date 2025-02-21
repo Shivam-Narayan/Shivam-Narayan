@@ -81,7 +81,7 @@
 ### 🌟 Current LeetCode Streak
 <p align="center">
   <!-- Placeholder for LeetCode streak (no direct API available, replace with your badge/image if available) -->
-  <a href="https://leetcode.com/your-username/" target="_blank">
+  <a href="https://leetcode.com/studyplan/top-sql-50/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Profile" />
   </a>
   <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_LEETCODE_STREAK_IMAGE_URL" alt="LeetCode Streak" /> -->
