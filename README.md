@@ -70,16 +70,14 @@
 
 ---
 
-### 🌟 Current HackerRank Streak
+### 🌟 Current HackerRank and LeetCode Streak
 <p align="center">
   <!-- Placeholder for HackerRank streak (no direct API available, replace with your badge/image if available) -->
   <a href="https://www.hackerrank.com/dashboard" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />  
   </a>
   <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_HACKERRANK_STREAK_IMAGE_URL" alt="HackerRank Streak" /> -->
-</p>
-### 🌟 Current LeetCode Streak
-<p align="center">
+
   <!-- Placeholder for LeetCode streak (no direct API available, replace with your badge/image if available) -->
   <a href="https://leetcode.com/studyplan/top-sql-50/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Profile" />
