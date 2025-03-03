@@ -84,11 +84,11 @@
   </a>
   <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_LEETCODE_STREAK_IMAGE_URL" alt="LeetCode Streak" /> -->
 
-  <!-- Placeholder for LeetCode streak (no direct API available, replace with your badge/image if available) -->
-  <a href="https://leetcode.com/studyplan/top-sql-50/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-  <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_LEETCODE_STREAK_IMAGE_URL" alt="LeetCode Streak" /> -->
+  <!-- Placeholder for CodeChef streak (no direct API available, replace with your badge/image if available) -->
+<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-0F0?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile" />
+</a>
+<!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_CODECHEF_STREAK_IMAGE_URL" alt="CodeChef Streak" /> -->
 </p>
 
 <p align="center">
