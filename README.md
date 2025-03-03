@@ -84,11 +84,13 @@
   </a>
   <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_LEETCODE_STREAK_IMAGE_URL" alt="LeetCode Streak" /> -->
 
-  <!-- Placeholder for CodeChef streak (no direct API available, replace with your badge/image if available) -->
-<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-0F0?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile" />
+  <!-- CodeChef Profile Badge with custom style -->
+<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank" style="text-decoration: none; border-radius: 10px;">
+  <img src="https://img.shields.io/badge/CodeChef-0F0?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile" 
+       style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
-<!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_CODECHEF_STREAK_IMAGE_URL" alt="CodeChef Streak" /> -->
+
+<!-- If you have a custom streak image or badge, replace the above image URL with your custom streak image link -->
 </p>
 
 <p align="center">
