@@ -85,7 +85,7 @@
   <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_LEETCODE_STREAK_IMAGE_URL" alt="LeetCode Streak" /> -->
 
   <!-- CodeChef Profile Badge with custom style -->
-<a href="https://www.codechef.com/users/YOUR_USERNAME" target="_blank" style="text-decoration: none; border-radius: 10px;">
+<a href="https://www.codechef.com/dashboard" target="_blank" style="text-decoration: none; border-radius: 10px;">
   <img src="https://img.shields.io/badge/CodeChef-0F0?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile" 
        style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
@@ -119,7 +119,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityaa-Sharma&style=flat-square&color=ff6f61" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Shivam-Narayan&style=flat-square&color=ff6f61" alt="Profile Views" />
 </p>
 
 <p align="center">
