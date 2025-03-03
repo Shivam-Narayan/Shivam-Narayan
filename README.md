@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Shivam Narayan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello, I am Shivam Narayan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivamnarayan&label=Profile%20Views&color=ff6f61&style=flat-square" alt="Profile Views" />
@@ -77,6 +77,12 @@
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />  
   </a>
   <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_HACKERRANK_STREAK_IMAGE_URL" alt="HackerRank Streak" /> -->
+
+  <!-- Placeholder for LeetCode streak (no direct API available, replace with your badge/image if available) -->
+  <a href="https://leetcode.com/studyplan/top-sql-50/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+  <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_LEETCODE_STREAK_IMAGE_URL" alt="LeetCode Streak" /> -->
 
   <!-- Placeholder for LeetCode streak (no direct API available, replace with your badge/image if available) -->
   <a href="https://leetcode.com/studyplan/top-sql-50/" target="_blank">
