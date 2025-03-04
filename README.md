@@ -118,9 +118,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shivam-Narayan&style=flat-square&color=ff6f61" alt="Profile Views" />
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
