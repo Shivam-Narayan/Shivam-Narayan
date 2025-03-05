@@ -98,10 +98,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Shivam-Narayan/Shivam-Narayan/blob/main/CodeChefBadge.png" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Shivam-Narayan&theme=dracula&hide_border=true&card_width=800" alt="GitHub Streak" />
 </p>
 
