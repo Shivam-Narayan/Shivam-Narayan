@@ -86,7 +86,7 @@
 
   <!-- CodeChef Profile Badge with custom style -->
 <a href="https://www.codechef.com/dashboard" target="_blank" style="text-decoration: none; border-radius: 10px;">
-  <img src="https://img.shields.io/badge/CodeChef-0F0?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile" 
+  <img src="https://img.shields.io/badge/CodeChef-0F0?style=for-the-badge&logo=CodeChef&logoColor=black" alt="CodeChef Profile" 
        style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
 
