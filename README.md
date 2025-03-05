@@ -86,7 +86,7 @@
 
   <!-- CodeChef Profile Badge with custom style -->
 <a href="https://www.codechef.com/dashboard" target="_blank" style="text-decoration: none; border-radius: 10px;">
-  <img src="https://github.com/Shivam-Narayan/Shivam-Narayan/blob/main/CodeChefBadge.png" alt="CodeChef Profile" 
+  <img src="https://img.shields.io/badge/CodeChef-0F0?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Profile" 
        style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
 
@@ -95,6 +95,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shivam-Narayan&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Shivam-Narayan/Shivam-Narayan/blob/main/CodeChefBadge.png" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
