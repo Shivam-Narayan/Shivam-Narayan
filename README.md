@@ -70,7 +70,7 @@
 
 ---
 
-### 🌟 Current HackerRank and LeetCode and Codechef Streak
+### 🌟 Current HackerRank LeetCode Codechef Streak
 <p align="center">
   <!-- Placeholder for HackerRank streak (no direct API available, replace with your badge/image if available) -->
   <a href="https://www.hackerrank.com/dashboard" target="_blank">
