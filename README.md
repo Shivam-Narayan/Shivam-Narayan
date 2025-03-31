@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🔭 **Currently working on**: Multiple Projects on AI/ML  
-- 🌱 **Learning**: DevOps, Development, and Data Visualization  
+- 🌱 **Learning**: DevOps, Development, and Data Analyst  
 - 🤝 **Open to collaborate**: With tech enthusiasts and institutes  
 - 📫 **Email me**: [sshivam6495@gmail.com](mailto:sshivam6495@gmail.com)  
 - 🎉 **Fun fact**: I think I’m hilarious! 😄  
