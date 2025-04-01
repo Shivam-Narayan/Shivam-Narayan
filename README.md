@@ -73,7 +73,7 @@
 ### 🌟 Current HackerRank LeetCode Codechef Streak
 <p align="center">
   <!-- Placeholder for HackerRank streak (no direct API available, replace with your badge/image if available) -->
-  <a href="https://www.hackerrank.com/dashboard" target="_blank">
+  <a href="https://www.hackerrank.com/profile/sshivam6495" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />  
   </a>
   <!-- If you have a custom streak image or badge, replace the above with: <img src="YOUR_HACKERRANK_STREAK_IMAGE_URL" alt="HackerRank Streak" /> -->
