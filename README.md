@@ -14,8 +14,8 @@
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on**: Multiple Projects on AI/ML  
-- 🌱 **Learning**: DevOps, Development, and Data Analyst  
+- 🔭 **Currently working on**: Multiple Projects on Frontend/Backend  
+- 🌱 **Learning**: New technology like RAG, LLM, LangChain and AI/ML  
 - 🤝 **Open to collaborate**: With tech enthusiasts and institutes  
 - 📫 **Email me**: [sshivam6495@gmail.com](mailto:sshivam6495@gmail.com)  
 - 🎉 **Fun fact**: I think I’m hilarious! 😄  
